@@ -1,0 +1,57 @@
+
+https://secureacceptance.cybersource.com/checkout_update
+
+# body valus need delete from  payload
+card_cvn=  value
+__e.card_cvn== value
+
+
+HTTP/2 302
+date: Sat, 18 Oct 2025 03:01:59 GMT
+content-type: text/html;charset=utf-8
+location: https://secureacceptance.cybersource.com/payer_authentication/hybrid?ccaAction=load
+cf-ray: 9904cb513e529e89-PMO
+sa-prefix: 755
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+x-request-id: 5c28b835-6a88-4165-840a-eced7026aee8
+x-runtime: 0.259054
+strict-transport-security: max-age=31536000; includeSubDomains
+cf-cache-status: DYNAMIC
+set-cookie: __cfruid=79e034bfa4ee244487bff6239c5b31ee9727cc43-1760756519; path=/; domain=.secureacceptance.cybersource.com; HttpOnly; Secure; SameSite=None
+set-cookie: _cfuvid=duaiJISJ7hwdi2Pr3x7vm3inSSjG0lBwP_gHqAkw7Kk-1760756519036-0.0.1.1-604800000; path=/; domain=.secureacceptance.cybersource.com; HttpOnly; Secure; SameSite=None
+server: cloudflare
+
+
+
+
+
+
+HTTP/2 200
+date: Sat, 18 Oct 2025 03:29:30 GMT
+content-type: text/html;charset=utf-8
+content-encoding: br
+sa-prefix: 755
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+pragma: no-cache
+expires: Fri, 01 Jan 1990 00:00:00 GMT
+vary: Accept
+cache-control: no-cache, no-store, max-age=0, must-revalidate
+x-request-id: 9e7d5252-6d0d-4be8-a13f-f9d05f215cbf
+x-runtime: 0.031734
+strict-transport-security: max-age=31536000; includeSubDomains
+cf-cache-status: DYNAMIC
+set-cookie: __cfruid=36c015ed81a6a339efbd8d8e0f3ecc609dddee19-1760758170; path=/; domain=.secureacceptance.cybersource.com; HttpOnly; Secure; SameSite=None
+set-cookie: _cfuvid=IgOU2j1QuLh7OKBORATLcc9B4cy1PREpzEI2BKZRpuA-1760758170508-0.0.1.1-604800000; path=/; domain=.secureacceptance.cybersource.com; HttpOnly; Secure; SameSite=None
+server: cloudflare
+cf-ray: 9904f3a499f73574-PMO

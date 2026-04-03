@@ -1,0 +1,6 @@
+venv
+dist
+build
+main.spec
+main.py
+GuiManager
